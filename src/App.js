@@ -36,7 +36,7 @@ const movies = [
 
 return (
    <div>
-      <h1>My favourite movies to watch</h1>
+      <h1>My favourite movies to watch.</h1>
       <h2>My favourite movie today is {title} </h2>
       <h2>Myf favourute movie today is {title.toUpperCase()} </h2>
       <div>{message}</div>
